@@ -1,0 +1,15 @@
+{
+  "name": "banyumili-backend",
+  "version": "1.0.0",
+  "description": "Aplikasi backend Banyumili",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Irwan Robi",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
